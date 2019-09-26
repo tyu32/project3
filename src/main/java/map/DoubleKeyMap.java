@@ -2,7 +2,7 @@ package map;
 
 import java.util.List;
 
-/** Your MyHashMap class must implement this interface. The interface
+/** Your DoubleKeyHashMap class must implement this interface. The interface
  * is similar to Java's Map interface from the standard library, except this interface
  * has two keys as opposed to one key, and has a smaller set of methods.
  * Modified from the assignment of Prof. Parr.
